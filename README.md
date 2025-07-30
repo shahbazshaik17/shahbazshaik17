@@ -2,7 +2,7 @@
 -  I’m interested in ml, ds, cloud computing
 -  I’m currently learning machine learning
 -  I’m looking to collaborate on ml, and opensource projects
--  How to reach me: shahbaz.shaik9346@gmail.com
+-  How to reach me: mohdsaleemshaik918@gmail.com
 -  Pronouns: he/him
   looking forward to get into some interesting projects.
 
