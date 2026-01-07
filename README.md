@@ -1,4 +1,4 @@
--  Hi, I’m @shahbazshaik17
+-  Hi, I’m @ mohammed saleem shaik
 -  I’m interested in ml, ds, cloud computing
 -  I’m currently learning machine learning
 -  I’m looking to collaborate on ml, and opensource projects
